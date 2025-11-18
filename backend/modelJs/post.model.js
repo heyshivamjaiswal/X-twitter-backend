@@ -2,7 +2,7 @@ import { text } from "express";
 import mongoose from "mongoose";
 
 const postSchema = new mongoose.Schema({
-
+                  
 
     },
     text:{
